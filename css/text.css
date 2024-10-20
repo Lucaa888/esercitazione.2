@@ -1,0 +1,14 @@
+#textContainer {
+    width: 548px;
+    height: 305px;
+    position: absolute;
+    left: 439px;
+    top: 252px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    color: black;
+    font-size: 16px;
+}
