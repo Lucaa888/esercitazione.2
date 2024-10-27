@@ -4,7 +4,7 @@
     background-color: #3AE3AB;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 16px;
     position: absolute;
     left: 545px;
@@ -18,8 +18,8 @@
     width: 210px;
     height: 30px;
     position: absolute;
-    left: 608px;
-    top: 754px;
+    left: 75px;
+    top: 70px;
     margin: 0;
 }
 
